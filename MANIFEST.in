@@ -1,0 +1,7 @@
+include lanrzip_dash_components/lanrzip_dash_components.min.js
+include lanrzip_dash_components/lanrzip_dash_components.min.js.map
+include lanrzip_dash_components/metadata.json
+include lanrzip_dash_components/package-info.json
+include README.md
+include LICENSE
+include package.json
